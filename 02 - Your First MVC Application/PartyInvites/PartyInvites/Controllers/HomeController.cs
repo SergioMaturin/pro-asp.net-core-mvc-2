@@ -22,7 +22,7 @@ namespace PartyInvites.Controllers {
         public ViewResult RsvpForm(GuestResponse guestResponse) {
             if (ModelState.IsValid) {
                 Repository.AddResponse(guestResponse);
-                return View("Thanks", guestResponse);
+                return View("Thank you", guestResponse);
             } else {
                 // there is a validation error
                 return View();
