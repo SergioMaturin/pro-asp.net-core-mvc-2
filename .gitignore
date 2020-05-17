@@ -1,0 +1,51 @@
+.vs/
+02 - Your First MVC Application/PartyInvites/.vs/
+02 - Your First MVC Application/PartyInvites/PartyInvites/obj/
+04 - Essential Language Features/LanguageFeatures/.vs/
+04 - Essential Language Features/LanguageFeatures/LanguageFeatures/LanguageFeatures.csproj.user
+04 - Essential Language Features/LanguageFeatures/LanguageFeatures/obj/
+05 - Working with Razor/Razor/Razor/obj/
+06 - Working with Visual Studio/WorkingWithVisualStudio/WorkingWithVisualStudio/obj/
+07 - Testing MVC Applications/WorkingWithVisualStudio/WorkingWithVisualStudio.Tests/obj/
+07 - Testing MVC Applications/WorkingWithVisualStudio/WorkingWithVisualStudio/obj/
+08 - SportsStore/SportsStore/SportsStore.Tests/obj/
+08 - SportsStore/SportsStore/SportsStore/obj/
+09 - SportsStore - Navigation/SportsStore/SportsStore.Tests/obj/
+09 - SportsStore - Navigation/SportsStore/SportsStore/obj/
+10 - SportsStore - Cart/SportsStore/SportsStore.Tests/obj/
+10 - SportsStore - Cart/SportsStore/SportsStore/obj/
+11 - SportsStore - Admin/SportsStore/SportsStore.Tests/obj/Release/
+11 - SportsStore - Admin/SportsStore/SportsStore/obj/
+12 - SportsStore - Security & Deployment/SportsStore/.vs/
+12 - SportsStore - Security & Deployment/SportsStore/SportsStore.Tests/obj/
+12 - SportsStore - Security & Deployment/SportsStore/SportsStore/bin/
+12 - SportsStore - Security & Deployment/SportsStore/SportsStore/obj/
+13 - Working with Visual Studio Code/InvitesProject/PartyInvites/obj/
+13 - Working with Visual Studio Code/InvitesProject/Tests/obj/
+14 - Configuring Applications/ConfiguringApps/ConfiguringApps/obj/
+15 - URL Routing/UrlsAndRoutes/UrlsAndRoutes/obj/
+16 - Advanced Routing Features/UrlsAndRoutes/UrlsAndRoutes/obj/
+17 - Controllers and Actions/ControllersAndActions/ControllersAndActions.Tests/obj/
+17 - Controllers and Actions/ControllersAndActions/ControllersAndActions/obj/
+18 - Dependency Injection/DependencyInjection/DependencyInjection.Tests/obj/
+18 - Dependency Injection/DependencyInjection/DependencyInjection/obj/
+19 - Filters/Filters/FilterTests/obj/
+19 - Filters/Filters/Filters/obj/
+20 - API Controllers/ApiControllers/ApiControllers/obj/
+21 - Views/Views/Views/obj/
+22 - View Components/UsingViewComponents/UsingViewComponents.Tests/obj/
+22 - View Components/UsingViewComponents/UsingViewComponents/obj/
+23 - Tag Helpers/Cities/Cities.Tests/obj/
+23 - Tag Helpers/Cities/Cities/obj/
+24 - Form Tag Helpers/Cities/Cities.Tests/obj/
+24 - Form Tag Helpers/Cities/Cities/obj/
+25 - Other Tag Helpers/Cities/Cities.Tests/obj/
+25 - Other Tag Helpers/Cities/Cities/obj/
+26 - Model Binding/MvcModels/MvcModels/obj/
+27 - Model Validation/ModelValidation/ModelValidation/obj/
+28 - Identity/Users/Users/obj/
+29 - Applying Identity/Users/Users/obj/
+30 - Advanced Identity/Users/Users/obj/
+31 - Constraints and Conventions/ConventionsAndConstraints/.vs/
+31 - Constraints and Conventions/ConventionsAndConstraints/ConventionsAndConstraints/obj/
+11 - SportsStore - Admin/SportsStore/SportsStore.Tests/obj/Debug/netcoreapp2.0/*.cache
